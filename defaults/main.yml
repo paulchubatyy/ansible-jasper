@@ -1,4 +1,6 @@
 ---
+jasper_git_repo: git@github.com:paulchubatyy/jasper-client.git
+jasper_git_version: jasper-dev
 jasper_user: jasper
 jasper_base_path: /home/{{ jasper_user }}
 jasper_path: "{{ jasper_base_path }}/jasper"
